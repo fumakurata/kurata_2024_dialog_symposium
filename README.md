@@ -1,4 +1,6 @@
 # kurata_2024_dialog_symposium
 
 engagement_questionnaire.png：エンゲージメントに関する質問内容
+
+
 rapport_questionnaire.png：ラポールに関する質問内容
